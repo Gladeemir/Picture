@@ -1,0 +1,46 @@
+table {
+    border-collapse: collapse;
+    width: 400px;
+    margin: 0 auto;
+}
+
+td {
+    border: 5px solid #000;
+}
+
+.yellow {
+    background-color: #fffa69;
+}
+
+.red {
+    background-color: #ff5b2d;
+}
+
+.black {
+    background-color: #000;
+}
+
+.blue {
+    background-color: #074481;
+}
+
+.test {
+    border: 5px solid transparent;
+    color: transparent;
+}
+
+.c1 {
+    border-left: none;
+}
+
+.top-border {
+    border-top: none;
+}
+
+.right-border {
+    border-right: none;
+}
+
+.border-bottom {
+    border-bottom: none;
+}
